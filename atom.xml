@@ -4,7 +4,7 @@
   <subtitle><![CDATA[A collection of Perspectives]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://justangle.com/"/>
-  <updated>2016-07-27T06:33:00.000Z</updated>
+  <updated>2016-08-16T11:35:11.000Z</updated>
   <id>http://justangle.com/</id>
   
   <author>
@@ -13,6 +13,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Is GST a Fix-It-ALL?]]></title>
+    <link href="http://justangle.com/2016/08/15/gst/"/>
+    <id>http://justangle.com/2016/08/15/gst/</id>
+    <published>2016-08-15T09:17:47.000Z</published>
+    <updated>2016-08-16T11:35:11.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="/images/gst.jpg" alt=""><br>Lots of articles have been written, hosannas sung and paeans composed… perhaps rightly so. Nothing to take away from the fact that it’s a game changer, redefining taxation in India. But in its present form, is it the panacea or a fix-it- all for your tax woes? This article, looks at the collateral the roll out of GST will entail.<br><blockquote><p>The GST is undoubtedly the biggest reform in a quarter of a century</p>
+<footer><strong>Anonymous!!</strong></footer></blockquote></p>
+<h3 id="Your_compliance_burden"><a href="#Your_compliance_burden" class="headerlink" title="Your compliance burden"></a><strong>Your compliance burden</strong></h3><p>Let’s assume you provide some taxable services in 10 Indian states. You will be required to take registrations in all these 10 states, and file 37 returns for each state. Which means you are looking at <strong>370 returns annually!</strong> In contrast, you were filing 2 returns a year till yesterday. Not exactly easy, is it?</p>
+<h3 id="Dual_Control"><a href="#Dual_Control" class="headerlink" title="Dual Control"></a><strong>Dual Control</strong></h3><p>Each transaction will now be taxed by both the centre and the states. Which means, you have to answer the Centre, as well as the state in which you provided the service or sell goods to. That the taxman is a creature hard to please is hardly a secret. More chances of running into him!</p>
+<h3 id="Unified_Tax_Regime"><a href="#Unified_Tax_Regime" class="headerlink" title="Unified Tax Regime"></a><strong>Unified Tax Regime</strong></h3><p>Largely true, but too simplistic to be truly true! Customs Duty (BCD) will continue to be charged the way it currently is. Taxes levied at the Local Authority level like entertainment tax, profession tax in some states etc will see no change. Products like tobacco will have a separate excise duty levied by the Centre. States will continue to tax alcohol. When exactly will petroleum be brought within the GST ambit is uncertain. One nation, one tax? Phew, they said One Rank, One Pension (<strong>OROP</strong>) wasn’t easy. :-)</p>
+<h3 id="Self-Supply"><a href="#Self-Supply" class="headerlink" title="Self-Supply"></a><strong>Self-Supply</strong></h3><p>Let’s say you are a large consulting firm with branches in Bangalore, Mumbai and Delhi. </p>
+<p><strong>Senario 1</strong> : The Bangalore branch specializes in a particular competency, and hence provides assistance to the other branches when needed. What’s the big deal, you helped yourself. Well? Welcome to the new era, you are required to pay tax on these services you provided to your own self. And how do you value them? Let’s save it for another day!!</p>
+<p><strong>Scenario 2</strong> :<br>Let’s say you transferred some goods to your agent for sale. Actual sale is only when the agent sells, isn’t it? The GST law requires you to pay for this transfer too, supply to your own agent is itself a taxable event! Credit can be taken, but what about the opportunity cost of capital blocked?</p>
+<h3 id="Another_Transfer_Pricing_Regime_3F"><a href="#Another_Transfer_Pricing_Regime_3F" class="headerlink" title="Another Transfer Pricing Regime?"></a><strong>Another Transfer Pricing Regime?</strong></h3><p>Hitherto, there was no law governing the valuation of services between related parties such as sister concerns, group companies etc. Stray cases were picked up in adjudication (and undoubtedly ended in litigation!), but there was no explicit law. GST introduces this concept for the first time, where it expects such supplies to be valued on the basis of parameters such as “like supplies”, “like quantity” etc. In other words, you are required to demonstrate Arm’s Length in these transactions. We may a witness a Transfer Pricing regime in GST too, with high pitched adjustments and disputes.</p>
+<h3 id="Input_Credits"><a href="#Input_Credits" class="headerlink" title="Input Credits"></a><strong>Input Credits</strong></h3><p>The moment you paid your supplier for his wares, you were eligible for Input Credit. Nay, you didn’t even have to actually pay to take credit, an invoice was enough! Under the GST regime, you pay the vendor, wait for him to deposit the tax, wait for him to report it, and again wait for it to reflect in your account electronically. Exporters will also have to wait before they recoup their reversals. This will undoubtedly hamper working capital big time, make no mistake! Hopefully a robust IT infrastructure alleviates the pain to a certain extent.</p>
+<h3 id="Business_Model"><a href="#Business_Model" class="headerlink" title="Business Model"></a><strong>Business Model</strong></h3><p>With movement from a source based taxation to a destination based one, business and operation models may need to be re-worked. Especially multi-brand sellers, e-commerce platforms and aggregators operating market place models. How exactly they warehouse their goods is a significant strategy that may call for recalibration.</p>
+<h3 id="One_National_GST_3F"><a href="#One_National_GST_3F" class="headerlink" title="One National GST?"></a><strong>One National GST?</strong></h3><p>Alas, it is not to be. It’s a multi-layered GST. Transactions within the state attract both the <strong>CGST</strong> (Central GST) and the <strong>SGST</strong> (State GST), while those between two-states attract the IGST (Inter Stated GST). And there is no free utilization of these credits at will, there is a restriction and hierarchy governing the utilization.</p>
+<h3 id="E-commerce_operators_2C_aggregators_and_Online_Service_Providers"><a href="#E-commerce_operators_2C_aggregators_and_Online_Service_Providers" class="headerlink" title="E-commerce operators, aggregators and Online Service Providers"></a><strong>E-commerce operators, aggregators and Online Service Providers</strong></h3><p>The definition and scope of the above are like a tricky staircase, which could lead you somewhere different on a Thursday. E-Commerce operators at times partially function as aggregators, but the two classes are defined differently with different liabilities. Function based classification is ambiguous, there are a lot of common functions both perform. Who is in and who is out of which category is anybody’s guess based on the definition. Further aggregators could be treated as service providers for the full value of the transaction (in truth, only their commission concerns them). In addition, the e-commerce operators are subject to a TCS regime (more on it later).</p>
+<p><strong>In sum</strong>, one might be led to believe that the article is fraught with pessimism. On the contrary, the author believes that the GST is a much needed law, where the positives outnumber the shortcomings. This said, it is as well to be aware of what one is walking into, he who is forewarned is twice armed. The GST is a law still in the making, and the author hopes that difficulties, when voiced will be addressed. Wishing a truly perfect GST, which not only addresses the need of the states, but also is business-friendly.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="/images/gst.jpg" alt=""><br>Lots of articles have been written, hosannas sung and paeans composed… perhaps rightly so. Nothing ]]>
+    </summary>
+    
+      <category term="gst" scheme="http://justangle.com/tags/gst/"/>
+    
+      <category term="indirect tax" scheme="http://justangle.com/tags/indirect-tax/"/>
+    
+      <category term="tax" scheme="http://justangle.com/tags/tax/"/>
+    
+      <category term="Taxation" scheme="http://justangle.com/categories/Taxation/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[In light of the surfeit of 'logic' floating around]]></title>
