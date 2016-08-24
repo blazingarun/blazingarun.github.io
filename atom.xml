@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://justangle.com/"/>
-  <updated>2016-08-24T04:53:40.000Z</updated>
+  <updated>2016-08-24T04:55:51.000Z</updated>
   <id>http://justangle.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://justangle.com/2016/08/23/gst2/"/>
     <id>http://justangle.com/2016/08/23/gst2/</id>
     <published>2016-08-23T04:42:02.000Z</published>
-    <updated>2016-08-24T04:53:40.000Z</updated>
+    <updated>2016-08-24T04:55:51.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/gst2.jpg" alt=""><br>They say, there is nothing called a free lunch. For argument’s sake, let’s suppose there is. Can that be taxed too?</p>
 <p>Mr. Legal Eagle is among the top Chartered Accountants of the country, he represents only the who’s - who of the business world. Success is his second name and his charges are in millions. In a rare deviation, he argued a case for <em>Philanthropy Philia</em>, an NGO catering to orphan children. Given the noble cause, he did it free of cost, (needless to say!) won the case and lunched with the trustee of the NGO.</p>
@@ -53,6 +53,10 @@
       <category term="tax" scheme="http://justangle.com/tags/tax/"/>
     
       <category term="indirect tax" scheme="http://justangle.com/tags/indirect-tax/"/>
+    
+      <category term="model gst law" scheme="http://justangle.com/tags/model-gst-law/"/>
+    
+      <category term="free" scheme="http://justangle.com/tags/free/"/>
     
   </entry>
   
